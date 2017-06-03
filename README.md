@@ -1,4 +1,4 @@
 # demo-python
 Demo Python Application
 
-Learn git
+Learning Python and Git
