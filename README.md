@@ -1,2 +1,2 @@
-# demo
-Yros Demo Application
+# demo-python
+Demo Python Application
